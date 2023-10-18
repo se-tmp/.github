@@ -12,3 +12,12 @@ We will develop a service using the Matter protocol, a technology for managing s
 the system will automatically perform predefined actions.
 
 This project empowers users to define actions based on their daily activities, making home automation more user-friendly. The research's primary goals are to develop a user-centric system that accurately understands user intentions and offers a more seamless and intuitive home automation experience
+
+#Group Member
+| NAME | DEPt | E-mail |
+|------------|------|------|
+| Kwon JongIn  | Information system   | whddlswhdaud@naver.com   |
+| Bae HyoJung  | Information system   | bhj09270@hanyang.ac.kr   |
+| Jo Taesik    | Information system   | r4pidstart@hanyang.ac.kr   |
+| Lee HyunSuk  | Information system   | leehyunsuk2000@gmail.com   |
+| Nam Haixu    | Information system   | what-is-my-id@naver.com   |
