@@ -13,7 +13,8 @@ the system will automatically perform predefined actions.
 
 This project empowers users to define actions based on their daily activities, making home automation more user-friendly. The research's primary goals are to develop a user-centric system that accurately understands user intentions and offers a more seamless and intuitive home automation experience
 
-#Group Member
+# Group Member
+
 | NAME | DEPt | E-mail |
 |------------|------|------|
 | Kwon JongIn  | Information system   | whddlswhdaud@naver.com   |
