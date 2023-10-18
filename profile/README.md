@@ -3,7 +3,7 @@
 
 2023 한양대학교 소프트웨어공학 프로젝트
 
-# Proposal
+## Proposal
 
 With the growing interest in home automation, we propose research to improve the user experience. Current methods, like voice
 commands and motion sensors, have limitations that necessitate specific requests or unusual actions from users. To address this, our research aims to create a more intuitive system. 
@@ -13,7 +13,7 @@ the system will automatically perform predefined actions.
 
 This project empowers users to define actions based on their daily activities, making home automation more user-friendly. The research's primary goals are to develop a user-centric system that accurately understands user intentions and offers a more seamless and intuitive home automation experience
 
-# Group Member
+## Group Member
 
 | NAME | DEPt | E-mail |
 |------------|------|------|
