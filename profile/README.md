@@ -3,11 +3,22 @@
 
 2023 한양대학교 소프트웨어공학 프로젝트
 
-# Proposal
+## Proposal
 
-With the recent surge in fascination with home automation, numerous companies are investigating strategies to facilitate the unified management of connected devices. A few of these techniques comprise verbal requests to a service for a particular action or the activation of a specific action when motion is sensed by designated sensors. 
+With the growing interest in home automation, we propose research to improve the user experience. Current methods, like voice
+commands and motion sensors, have limitations that necessitate specific requests or unusual actions from users. To address this, our research aims to create a more intuitive system. 
 
-Nevertheless, these approaches possess limitations that necessitate users to execute certain requests or actions that they would not typically perform to direct their devices. Devices also do not enable the full comprehension of the user's intentions. These restrictions do not meet the requirements of users who seek to construct home automation that can naturally recognize their intentions and respond correspondingly. Our proposal is to offer a service permitting users to initiate particular actions by way of genuine, intentional behavior that feels natural. 
+We will develop a service using the Matter protocol, a technology for managing smart devices, that enables users to trigger actions through natural behavior, such as gestures. Cameras connected to the system will employ posture recognition to identify user actions, like sitting, standing, or lying down. By recognizing user posture and their interactions with objects,
+the system will automatically perform predefined actions.
 
-This service offers a platform to assimilate and manage devices via the Matter protocol. On this platform, users can determine which actions are activated based on users interactions with certain objects in specific locations. By using IP cameras connected to the platform, OpenPose, Library for pose estimation assesses the user's posture, labelling it as sitting, lying down, standing, and more. By recognizing the posture of the user and specific objects, pre-defined actions are triggered. With this service, User can advance beyond traditional home automation to create a system that operates by comprehending user's intents with greater precision. 
+This project empowers users to define actions based on their daily activities, making home automation more user-friendly. The research's primary goals are to develop a user-centric system that accurately understands user intentions and offers a more seamless and intuitive home automation experience
 
+## Group Member
+
+| NAME | DEPt | E-mail |
+|------------|------|------|
+| Kwon JongIn  | Information system   | whddlswhdaud@naver.com   |
+| Bae HyoJung  | Information system   | bhj09270@hanyang.ac.kr   |
+| Jo Taesik    | Information system   | r4pidstart@hanyang.ac.kr   |
+| Lee HyunSuk  | Information system   | leehyunsuk2000@gmail.com   |
+| Nam Haixu    | Information system   | what-is-my-id@naver.com   |
