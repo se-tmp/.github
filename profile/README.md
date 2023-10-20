@@ -17,8 +17,8 @@ This project empowers users to define actions based on their daily activities, m
 
 | NAME | DEPt | E-mail |
 |------------|------|------|
-| Kwon JongIn  | Information system   | whddlswhdaud@naver.com   |
-| Bae HyoJung  | Information system   | bhj09270@hanyang.ac.kr   |
-| Jo Taesik    | Information system   | r4pidstart@hanyang.ac.kr   |
-| Lee HyunSuk  | Information system   | leehyunsuk2000@gmail.com   |
-| Nam Haixu    | Information system   | what-is-my-id@naver.com   |
+| Kwon JongIn  | Information Systems   | whddlswhdaud@naver.com   |
+| Bae HyoJung  | Information Systems   | bhj09270@hanyang.ac.kr   |
+| Jo Taesik    | Information Systems   | r4pidstart@hanyang.ac.kr   |
+| Lee HyunSuk  | Information Systems   | leehyunsuk2000@gmail.com   |
+| Nam Haixu    | Information Systems   | what-is-my-id@naver.com   |
