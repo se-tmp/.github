@@ -3,6 +3,8 @@
 
 2023 한양대학교 소프트웨어공학 프로젝트
 
+[go to document](https://github.com/se-tmp/document/releases)
+
 ## Proposal
 
 With the growing interest in home automation, we propose research to improve the user experience. Current methods, like voice
