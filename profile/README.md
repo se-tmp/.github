@@ -17,10 +17,33 @@ This project empowers users to define actions based on their daily activities, m
 
 ## Group Member
 
-| NAME | DEPt | E-mail |
+| NAME | DEPT. | E-mail |
 |------------|------|------|
 | Kwon JongIn  | Information Systems   | whddlswhdaud@naver.com   |
 | Bae HyoJung  | Information Systems   | bhj09270@hanyang.ac.kr   |
 | Jo Taesik    | Information Systems   | r4pidstart@hanyang.ac.kr   |
 | Lee HyunSuk  | Information Systems   | leehyunsuk2000@gmail.com   |
 | Nam Haixu    | Information Systems   | what-is-my-id@naver.com   |
+
+```mermaid
+gantt
+    title untitled software engineering project
+    dateFormat  YYYY-MM-DD
+
+    section Project design
+        Select topic            :done,                2023-09-27, 2023-10-04
+        Write Proposal          :done,                2023-10-04, 2023-10-13
+        Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
+        Write Specification     :                     2023-10-20, 2023-10-31
+        Submit Specification    :milestone            2023-11-03, 2023-11-03
+
+    section Frontend
+        UI/UX design            :done,                2023-10-13, 2023-10-20
+        
+    section Backend
+        Modeling DB             :                     2023-10-20, 2023-10-31
+        Design APIs             :                     2023-10-20, 2023-10-31
+
+    section Computer vision
+
+```
