@@ -33,9 +33,8 @@ gantt
     section Project design
         Select topic            :done,                2023-09-27, 2023-10-04
         Write Proposal          :done,                2023-10-04, 2023-10-13
-        Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
+        Write Requirements      :                     2023-10-04, 2023-10-31
         Write Specification     :                     2023-10-20, 2023-10-31
-        Submit Specification    :milestone            2023-11-03, 2023-11-03
 
     section Frontend
         UI/UX design            :done,                2023-10-13, 2023-10-20
@@ -46,4 +45,8 @@ gantt
 
     section Computer vision
 
+    section Schedule
+        Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
+        Submit Specification    :milestone,           2023-11-03, 2023-11-03
+        Deadline                :milestone,           2023-12-08, 2023-12-08
 ```
