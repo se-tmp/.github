@@ -4,6 +4,31 @@
 2023 한양대학교 소프트웨어공학 프로젝트
 
 [go to document](https://github.com/se-tmp/document/releases)
+```mermaid
+gantt
+    title untitled software engineering project
+    dateFormat  YYYY-MM-DD
+
+    section Project design
+        Select topic            :done,                2023-09-27, 2023-10-04
+        Write Proposal          :done,                2023-10-04, 2023-10-13
+        Write Requirements      :                     2023-10-04, 2023-10-31
+        Write Specification     :                     2023-10-20, 2023-10-31
+
+    section Frontend
+        UI/UX design            :done,                2023-10-13, 2023-10-20
+        
+    section Backend
+        Modeling DB             :                     2023-10-20, 2023-11-04    
+        Design APIs             :                     2023-10-20, 2023-11-04
+
+    section Computer vision
+
+    section Schedule
+        Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
+        Submit Specification    :milestone,           2023-11-03, 2023-11-03
+        Deadline                :milestone,           2023-12-08, 2023-12-08
+```
 
 ## Proposal
 
@@ -25,28 +50,3 @@ This project empowers users to define actions based on their daily activities, m
 | Lee HyunSuk  | Information Systems   | leehyunsuk2000@gmail.com   |
 | Nam Haixu    | Information Systems   | what-is-my-id@naver.com   |
 
-```mermaid
-gantt
-    title untitled software engineering project
-    dateFormat  YYYY-MM-DD
-
-    section Project design
-        Select topic            :done,                2023-09-27, 2023-10-04
-        Write Proposal          :done,                2023-10-04, 2023-10-13
-        Write Requirements      :                     2023-10-04, 2023-10-31
-        Write Specification     :                     2023-10-20, 2023-10-31
-
-    section Frontend
-        UI/UX design            :done,                2023-10-13, 2023-10-20
-        
-    section Backend
-        Modeling DB             :                     2023-10-20, 2023-10-31
-        Design APIs             :                     2023-10-20, 2023-10-31
-
-    section Computer vision
-
-    section Schedule
-        Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
-        Submit Specification    :milestone,           2023-11-03, 2023-11-03
-        Deadline                :milestone,           2023-12-08, 2023-12-08
-```
