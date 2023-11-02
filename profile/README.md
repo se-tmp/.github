@@ -3,7 +3,7 @@
 
 2023 한양대학교 소프트웨어공학 프로젝트
 
-[go to document](https://github.com/se-tmp/document/releases)
+[Go to document](https://github.com/se-tmp/document/releases)
 ```mermaid
 gantt
     title untitled software engineering project
@@ -12,17 +12,21 @@ gantt
     section Project design
         Select topic            :done,                2023-09-27, 2023-10-04
         Write Proposal          :done,                2023-10-04, 2023-10-13
-        Write Requirements      :                     2023-10-04, 2023-10-31
-        Write Specification     :                     2023-10-20, 2023-10-31
+        Write Requirements      :done,                2023-10-04, 2023-10-31
+        Write Specification     :done,                2023-10-20, 2023-11-02
 
     section Frontend
         UI/UX design            :done,                2023-10-13, 2023-10-20
+        Make prototype          :                     2023-11-02, 2023-11-15
         
     section Backend
-        Modeling DB             :                     2023-10-20, 2023-11-04    
-        Design APIs             :                     2023-10-20, 2023-11-04
+        Modeling DB             :                     2023-10-20, 2023-11-03    
+        Design APIs             :                     2023-10-20, 2023-11-03
+        Implement DB & APIs     :                     2023-11-03, 2023-11-15
 
     section Computer vision
+        Research                :                     2023-10-13, 2023-11-02
+        Implement requirements  :                     2023-11-03, 2023-11-15
 
     section Schedule
         Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
