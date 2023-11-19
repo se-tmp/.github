@@ -14,23 +14,27 @@ gantt
         Write Proposal          :done,                2023-10-04, 2023-10-13
         Write Requirements      :done,                2023-10-04, 2023-10-31
         Write Specification     :done,                2023-10-20, 2023-11-02
+        Write Design            :                     2023-11-17, 2023-11-28
 
     section Frontend
         UI/UX design            :done,                2023-10-13, 2023-10-20
         Make prototype          :                     2023-11-02, 2023-11-15
+        Implement activities    :                     2023-11-16, 2023-11-28
         
     section Backend
-        Modeling DB             :                     2023-10-20, 2023-11-03    
-        Design APIs             :                     2023-10-20, 2023-11-03
-        Implement DB & APIs     :                     2023-11-03, 2023-11-15
+        Modeling DB             :done,                2023-10-20, 2023-11-03    
+        Design APIs             :done,                2023-10-20, 2023-11-03
+        Implement DB & APIs     :                     2023-11-03, 2023-11-21
 
     section Computer vision
-        Research                :                     2023-10-13, 2023-11-02
-        Implement requirements  :                     2023-11-03, 2023-11-15
+        Research                :done,                2023-10-13, 2023-11-02
+        Make dataset            :done,                2023-11-03, 2023-11-15
+        Training Model          :done,                2023-11-15, 2023-11-18
+        Implement requirements  :                     2023-11-19, 2023-11-24
 
     section Schedule
         Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
-        Submit Specification    :milestone,           2023-11-03, 2023-11-03
+        Submit Specification    :milestone, done,     2023-11-03, 2023-11-03
         Deadline                :milestone,           2023-12-08, 2023-12-08
 ```
 
