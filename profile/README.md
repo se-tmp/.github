@@ -15,11 +15,13 @@ gantt
         Write Requirements      :done,                2023-10-04, 2023-10-31
         Write Specification     :done,                2023-10-20, 2023-11-02
         Write Design            :                     2023-11-17, 2023-12-01
+        Write Implementation    :                     2023-11-23, 2023-12-01
 
     section Frontend
         UI/UX design            :done,                2023-10-13, 2023-10-20
         Make prototype          :done,                2023-11-02, 2023-11-15
         Implement activities    :                     2023-11-16, 2023-11-28
+        Import matter           :done,                2023-11-24, 2023-11-26
         
     section Backend
         Modeling DB             :done,                2023-10-20, 2023-11-03    
