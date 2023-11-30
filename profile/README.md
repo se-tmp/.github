@@ -1,4 +1,4 @@
-# HOME AUTOMATION
+# TempoMate Project
 
 
 2023 한양대학교 소프트웨어공학 프로젝트
@@ -6,7 +6,7 @@
 [Go to document](https://github.com/se-tmp/document/releases)
 ```mermaid
 gantt
-    title untitled software engineering project
+    title TempoMate Project
     dateFormat  YYYY-MM-DD
 
     section Project design
