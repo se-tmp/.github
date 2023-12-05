@@ -1,7 +1,6 @@
 # TempoMate Project
 
-
-2023 한양대학교 소프트웨어공학 프로젝트
+2023 Hanyang university, Software engeneering project
 
 [Go to document](https://github.com/se-tmp/document/releases)
 ```mermaid
@@ -14,13 +13,13 @@ gantt
         Write Proposal          :done,                2023-10-04, 2023-10-13
         Write Requirements      :done,                2023-10-04, 2023-10-31
         Write Specification     :done,                2023-10-20, 2023-11-02
-        Write Design            :                     2023-11-17, 2023-12-01
-        Write Implementation    :                     2023-11-23, 2023-12-01
+        Write Design            :                     2023-11-17, 2023-12-06
+        Write Implementation    :                     2023-11-23, 2023-12-06
 
     section Frontend
         UI/UX design            :done,                2023-10-13, 2023-10-20
         Make prototype          :done,                2023-11-02, 2023-11-15
-        Implement activities    :                     2023-11-16, 2023-11-28
+        Implement activities    :done,                2023-11-16, 2023-12-04
         Import matter           :done,                2023-11-24, 2023-11-26
         
     section Backend
@@ -38,6 +37,7 @@ gantt
         Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
         Submit Specification    :milestone, done,     2023-11-03, 2023-11-03
         Deadline                :milestone,           2023-12-08, 2023-12-08
+        Presentation            :milestone,           2023-12-15, 2023-12-15
 ```
 
 ## Proposal
