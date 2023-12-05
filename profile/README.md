@@ -1,6 +1,6 @@
 # TempoMate Project
 
-2023 Hanyang university, Software engeneering project
+2023 Hanyang university, Software engineering project
 
 [Go to document](https://github.com/se-tmp/document/releases)
 ```mermaid
