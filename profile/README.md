@@ -1,10 +1,13 @@
 # TempoMate Project
-<img src="https://github.com/se-tmp/.github/assets/67845112/9cede0dd-2147-4f1b-b9a7-de4e62e8b620" width="256" height="256" />
-
-
 2023 Hanyang university, Software engineering project
 
+<img src="https://github.com/se-tmp/.github/assets/67845112/9cede0dd-2147-4f1b-b9a7-de4e62e8b620" width="128" height="128" />
+
+### Demo video
+[![demo video](http://img.youtube.com/vi/jVljBmrk9wQ/0.jpg)](https://youtu.be/jVljBmrk9wQ)
+
 [Go to document](https://github.com/se-tmp/document/releases)
+
 ```mermaid
 gantt
     title TempoMate Project
