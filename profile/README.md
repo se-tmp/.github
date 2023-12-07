@@ -1,4 +1,6 @@
 # TempoMate Project
+<img src="https://github.com/se-tmp/.github/assets/67845112/9cede0dd-2147-4f1b-b9a7-de4e62e8b620" width="256" height="256" />
+
 
 2023 Hanyang university, Software engineering project
 
@@ -13,8 +15,8 @@ gantt
         Write Proposal          :done,                2023-10-04, 2023-10-13
         Write Requirements      :done,                2023-10-04, 2023-10-31
         Write Specification     :done,                2023-10-20, 2023-11-02
-        Write Design            :                     2023-11-17, 2023-12-06
-        Write Implementation    :                     2023-11-23, 2023-12-06
+        Write Design            :done,                2023-11-17, 2023-12-06
+        Write Implementation    :done,                2023-11-23, 2023-12-06
 
     section Frontend
         UI/UX design            :done,                2023-10-13, 2023-10-20
@@ -36,7 +38,7 @@ gantt
     section Schedule
         Submit Proposal         :milestone, done,     2023-10-13, 2023-10-13
         Submit Specification    :milestone, done,     2023-11-03, 2023-11-03
-        Deadline                :milestone,           2023-12-08, 2023-12-08
+        Deadline                :milestone, done,     2023-12-08, 2023-12-08
         Presentation            :milestone,           2023-12-15, 2023-12-15
 ```
 
