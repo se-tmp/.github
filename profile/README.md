@@ -24,6 +24,10 @@ This project empowers users to define actions based on their daily activities, m
 
 이 플랫폼은 Matter 프로토콜을 이용해 기기들을 통합하고, 관리할 수 있는 플랫폼을 제공합니다. 이 플랫폼에서, 유저는 어느 위치의 어떤 사물에서 어떤 동작을 취하는지에 따라 어떤 액션이 실행될 지를 설정할 수 있습니다. 이 플랫폼에 연결된 카메라를 이용해, 이 플랫폼은 유저의 위치와 자세를 추정합니다. 이런 방법으로 지정된 사물에서 설정해놓은 자세를 취하는 것을 인식하면 미리 지정된 액션을 실행합니다. 이 플랫폼을 이용해 유저는 기존의 홈 오토메이션보다 한 단계 앞서 작동하고, 유저의 의도를 더욱 더 잘 파악하여 동작하는 홈 오토메이션을 완성할 수 있습니다.
 
+# Architecture
+![final_architecture](https://github.com/se-tmp/.github/assets/67845112/430341d4-3ea1-40b8-873b-db803f8a7b25)
+
+
 ## Group Member
 
 | NAME | DEPT. | E-mail |
