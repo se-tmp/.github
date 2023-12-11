@@ -1,12 +1,32 @@
-# TempoMate Project
-2023 Hanyang university, Software engineering project
-
-<img src="https://github.com/se-tmp/.github/assets/67845112/9cede0dd-2147-4f1b-b9a7-de4e62e8b620" width="128" height="128" />
+![슬라이드1](https://github.com/se-tmp/.github/assets/67845112/bcef78f5-2454-4aab-afca-9a370d42a184)
+#
 
 ### Demo video
 [![demo video](http://img.youtube.com/vi/jVljBmrk9wQ/0.jpg)](https://youtu.be/jVljBmrk9wQ)
 
-[Go to document](https://github.com/se-tmp/document/releases)
+
+## Proposal
+[Document](https://github.com/se-tmp/document/releases)
+
+With the growing interest in home automation, we propose research to improve the user experience. Current methods, like voice
+commands and motion sensors, have limitations that necessitate specific requests or unusual actions from users. To address this, our research aims to create a more intuitive system. 
+
+We will develop a service using the Matter protocol, a technology for managing smart devices, that enables users to trigger actions through natural behavior, such as gestures. Cameras connected to the system will employ posture recognition to identify user actions, like sitting, standing, or lying down. By recognizing user posture and their interactions with objects,
+the system will automatically perform predefined actions.
+
+This project empowers users to define actions based on their daily activities, making home automation more user-friendly. The research's primary goals are to develop a user-centric system that accurately understands user intentions and offers a more seamless and intuitive home automation experience
+
+## Group Member
+
+| NAME | DEPT. | E-mail |
+|------------|------|------|
+| Kwon JongIn  | Information Systems   | whddlswhdaud@naver.com   |
+| Bae HyoJung  | Information Systems   | bhj09270@hanyang.ac.kr   |
+| Jo Taesik    | Information Systems   | r4pidstart@hanyang.ac.kr   |
+| Lee HyunSuk  | Information Systems   | leehyunsuk2000@gmail.com   |
+| Nam Haixu    | Information Systems   | what-is-my-id@naver.com   |
+
+---
 
 ```mermaid
 gantt
@@ -44,24 +64,3 @@ gantt
         Deadline                :milestone, done,     2023-12-08, 2023-12-08
         Presentation            :milestone,           2023-12-15, 2023-12-15
 ```
-
-## Proposal
-
-With the growing interest in home automation, we propose research to improve the user experience. Current methods, like voice
-commands and motion sensors, have limitations that necessitate specific requests or unusual actions from users. To address this, our research aims to create a more intuitive system. 
-
-We will develop a service using the Matter protocol, a technology for managing smart devices, that enables users to trigger actions through natural behavior, such as gestures. Cameras connected to the system will employ posture recognition to identify user actions, like sitting, standing, or lying down. By recognizing user posture and their interactions with objects,
-the system will automatically perform predefined actions.
-
-This project empowers users to define actions based on their daily activities, making home automation more user-friendly. The research's primary goals are to develop a user-centric system that accurately understands user intentions and offers a more seamless and intuitive home automation experience
-
-## Group Member
-
-| NAME | DEPT. | E-mail |
-|------------|------|------|
-| Kwon JongIn  | Information Systems   | whddlswhdaud@naver.com   |
-| Bae HyoJung  | Information Systems   | bhj09270@hanyang.ac.kr   |
-| Jo Taesik    | Information Systems   | r4pidstart@hanyang.ac.kr   |
-| Lee HyunSuk  | Information Systems   | leehyunsuk2000@gmail.com   |
-| Nam Haixu    | Information Systems   | what-is-my-id@naver.com   |
-
