@@ -1,9 +1,16 @@
-![슬라이드1](https://github.com/se-tmp/.github/assets/67845112/bcef78f5-2454-4aab-afca-9a370d42a184)
+![슬라이드1](https://github.com/se-tmp/.github/assets/67845112/0a6512ed-4a03-454f-8000-db37ddc41f72)
 #
 
-### Demo video
-[![demo video](http://img.youtube.com/vi/jVljBmrk9wQ/0.jpg)](https://youtu.be/jVljBmrk9wQ)
+### Demo videos
 
+#### Application demo
+
+[<img src="https://i.ytimg.com/vi/fEZtGU1hDqk/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fEZtGU1hDqk "Tempomate demo1")
+
+
+#### Usage demo
+
+[<img src="https://i.ytimg.com/vi/fEZtGU1hDqk/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fEZtGU1hDqk "Tempomate demo1")
 
 ## Proposal
 [Document](https://github.com/se-tmp/document/releases)
