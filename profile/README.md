@@ -4,13 +4,11 @@
 ### Demo videos
 
 #### Application demo
-
-[<img src="https://i.ytimg.com/vi/fEZtGU1hDqk/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fEZtGU1hDqk "Tempomate demo1")
+[<img width="50%" alt="app demo" src="https://github.com/se-tmp/.github/assets/67845112/fe16237e-b011-4a45-8711-e45a20195585">](https://www.youtube.com/watch?v=cvfh3G5OfR0 "tempomate demo")
 
 
 #### Usage demo
-
-[<img src="https://i.ytimg.com/vi/fEZtGU1hDqk/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fEZtGU1hDqk "Tempomate demo1")
+[<img width="50%" alt="app demo" src="https://github.com/se-tmp/.github/assets/67845112/fe16237e-b011-4a45-8711-e45a20195585">](https://www.youtube.com/watch?v=cvfh3G5OfR0 "tempomate demo")
 
 ## Proposal
 [Document](https://github.com/se-tmp/document/releases)
