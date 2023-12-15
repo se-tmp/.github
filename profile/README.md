@@ -9,6 +9,8 @@
 #### Usage demo
 [<img width="50%" alt="app demo" src="https://github.com/se-tmp/.github/assets/67845112/6f456c8b-32c1-4f2c-9a2f-5adf4a1d8841">](https://www.youtube.com/watch?v=Bp3ihc0p1us "tempomate demo")
 
+[Presentation](https://github.com/se-tmp/document/blob/main/presentation.pptx)
+
 ## Proposal
 [Document](https://github.com/se-tmp/document/releases)
 
